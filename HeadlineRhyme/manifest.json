@@ -1,0 +1,14 @@
+{
+    "manifest_version": 3,
+    "name": "Headline Rhymester",
+    "version": "1.0",
+    "description": "Turns headlines into rhymes!",
+    "permissions": ["activeTab", "scripting"],
+
+    "content_scripts": [
+        {
+            "matches": ["*://www.hindustantimes.com/india-news/*"],
+            "js": ["content.js"]
+        }
+    ]
+}
