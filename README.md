@@ -1,8 +1,7 @@
-# Comini-HeadlineRhymer
-# Headline Rhymester Chrome Extension
+# Beat-Bot
 
 ## Overview
-The Headline Rhymester is a Chrome extension designed to transform headlines on the Hindustan Times (India News section) into mini rhymes. It uses the OpenAI API to generate rhymed versions of the headlines.
+The Beat-bot is a Chrome extension designed to transform headlines on the Hindustan Times (India News section) into mini rhymes. It uses the OpenAI API to generate rhymed versions of the headlines.
 
 ## Prerequisites
 - Google Chrome Browser
